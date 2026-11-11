@@ -28,7 +28,7 @@ FORMATO_FECHA = "%Y-%m-%d"            # formato de las columnas fecha en los CSV
 HOST       = os.getenv("MYSQL_HOST", "localhost")
 PUERTO     = int(os.getenv("MYSQL_PORT", "3306"))
 USUARIO    = os.getenv("MYSQL_USER", "root")
-PASSWORD   = os.getenv("MYSQL_PASSWORD", "M@nuel101101")
+PASSWORD   = os.getenv("MYSQL_PASSWORD", "")
 BASE_DATOS = os.getenv("MYSQL_DB", "ferreteria_ulises")
 
 # Orden de carga según las claves foráneas del modelo físico.
