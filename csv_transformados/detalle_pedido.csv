@@ -1,0 +1,50 @@
+﻿id_detalle,nombre_producto,cantidad,id_proveedor,id_pedido
+1,Silicona protector Sironis,12,1,1
+2,Lija fierro,50,1,1
+3,Tíner 3 lt,10,2,2
+4,Bencina 500 ml,24,2,2
+5,Pintura spray negro mate,12,3,3
+6,Pintura spray gris plata,12,3,3
+7,Pintura spray negro brillante,12,3,3
+8,Cinta aislante 20 mts 3M,20,3,3
+9,Silicona cartucho transparente,6,3,3
+10,Pintura spray laca,6,3,3
+11,Cinta doble contacto,10,3,3
+12,Fragua gris plata,12,4,4
+13,Fragua crema,12,4,4
+14,Fragua marfil,12,4,4
+15,Talco americano,25,4,4
+16,Caño lavaplatos flexible,4,5,5
+17,Silicona Sikasil tubo,3,5,5
+18,Silicona en spray Shark grande,3,5,5
+19,Limpiacarburador Shark,6,5,5
+20,Cinta aislante Asaki,10,5,5
+21,Cinta aislante 3M,20,5,5
+22,Llave mixta Asaki,6,5,5
+23,Pistola silicona delgada Truper,2,5,5
+24,Mini alicate universal,4,5,5
+25,Mini alicate punta redonda,4,5,5
+26,Mini alicate punta larga,4,5,5
+27,Medidor de aire Truper,4,5,5
+28,Juego de piedras montadas,2,5,5
+29,Silicona Truper Comca,6,5,5
+30,Silicona Raymabilster,6,5,5
+31,Extractor de tornillos,2,5,5
+32,Aceite aflojatodo,6,5,5
+33,Nivel torpedo Truper,2,5,5
+34,Desarmador reversible,12,5,5
+35,Pontero para taladro,12,5,5
+36,Trapo industrial,20,5,6
+37,Aceite multiuso Truper,6,5,6
+38,Pegamento extrafuerte Soldimix,10,6,7
+39,Enchufe plano,24,6,7
+40,Cinta aislante grande 3M,20,7,8
+41,Borne de batería Kamasa,10,7,8
+42,Adaptador toma triple giratorio,6,7,8
+43,Broca fierro Hustuls,10,7,8
+44,Caja modular perno y tarugo,10,7,8
+45,Cinta embalaje 80 yardas,10,7,8
+46,Disco corte Kamasa,20,7,8
+47,Escoba Escobón,10,7,8
+48,Extensión triple,10,7,8
+49,Toma especial Megaluz,6,7,8

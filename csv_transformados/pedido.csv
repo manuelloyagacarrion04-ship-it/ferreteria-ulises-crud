@@ -1,0 +1,9 @@
+﻿id_pedido,fecha,estado,total,id_proveedor,id_dueño
+1,2026-05-08,Entregado,241.00,1,1
+2,2026-05-27,Entregado,257.00,2,1
+3,2026-06-26,Entregado,353.00,3,1
+4,2026-07-03,Entregado,252.10,4,1
+5,2026-08-13,Entregado,751.00,5,1
+6,2026-08-18,Entregado,110.00,5,1
+7,2026-08-29,Entregado,103.00,6,1
+8,2026-09-22,Entregado,407.80,7,1

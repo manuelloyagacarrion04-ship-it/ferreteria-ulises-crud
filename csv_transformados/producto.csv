@@ -1,0 +1,50 @@
+﻿id_producto,nombre,descripcion,stock,precio_venta,precio_compra,ubicacion,id_categoria
+1,Fragua gris plata,Fragua color gris plata para sellar juntas de cerámica y porcelanato,12,7.80,6.00,2A,1
+2,Fragua crema,Fragua color crema para sellar juntas de cerámica y porcelanato,12,5.00,3.80,1A,1
+3,Fragua marfil,Fragua color marfil para sellar juntas de cerámica y porcelanato,12,7.80,6.00,2A,1
+4,Talco americano,"Talco americano en polvo, carga mineral para preparar masilla y bases de pintura",25,3.30,2.50,5A,1
+5,Silicona protector Sironis,"Silicona protectora para dar brillo y conservar superficies de plástico, vinilo y caucho",12,16.90,13.00,3B,2
+6,Lija fierro,"Lija para fierro, remueve óxido y pule superficies metálicas",50,2.30,1.70,5D,6
+7,Tíner 3 lt,"Tíner en presentación de 3 litros, disolvente para diluir pinturas y limpiar herramientas",10,22.50,17.30,5A,1
+8,Bencina 500 ml,"Bencina en presentación de 500 ml, solvente para limpieza y desengrase",24,4.60,3.50,1A,1
+9,Pegamento extrafuerte Soldimix,"Pegamento extrafuerte para madera, metal, cuero y plástico",10,10.30,7.90,1B,2
+10,Enchufe plano,Enchufe plano de dos espigas para conexión eléctrica,24,1.30,1.00,2C,4
+11,Cinta aislante grande 3M,Cinta aislante de vinilo 3M en rollo grande para empalmes eléctricos,20,4.30,3.30,4B,3
+12,Borne de batería Kamasa,Borne terminal para batería de vehículo,10,4.30,3.30,1C,4
+13,Adaptador toma triple giratorio,Adaptador de tres tomas con giro para ampliar la conexión de enchufes,6,4.60,3.50,1C,4
+14,Broca fierro Hustuls,"Broca para taladro, perforación en fierro y metal",10,2.30,1.70,4D,6
+15,Caja modular perno y tarugo,Caja modular con pernos y tarugos surtidos para fijaciones,10,1.50,1.10,4C,8
+16,Cinta embalaje 80 yardas,Cinta adhesiva de embalaje de 80 yardas para sellado de cajas,10,1.50,1.15,5B,3
+17,Disco corte Kamasa,Disco abrasivo de corte para amoladora,20,7.20,5.50,4D,6
+18,Escoba Escobón,Escoba tipo escobón para barrido de pisos,10,11.70,9.00,3E,7
+19,Extensión triple,Extensión eléctrica con tres tomas,10,4.90,3.75,2C,4
+20,Toma especial Megaluz,Toma de corriente especial de la marca Megaluz,6,2.40,1.80,3C,4
+21,Trapo industrial,Trapo de tela para limpieza industrial y secado de piezas,20,4.90,3.70,5E,7
+22,Aceite multiuso Truper,Aceite lubricante multiuso para herramientas y mecanismos,6,7.80,6.00,2E,7
+23,Caño lavaplatos flexible,Caño flexible para lavadero de cocina,4,25.40,19.50,5C,8
+24,Silicona Sikasil tubo,Sellador de silicona Sikasil en tubo para juntas y acabados,3,15.00,11.50,1B,2
+25,Silicona en spray Shark grande,"Silicona lubricante en spray, presentación grande",3,13.70,10.50,2B,2
+26,Limpiacarburador Shark,Limpiador en spray para carburador y sistema de admisión,6,11.10,8.50,4E,7
+27,Cinta aislante Asaki,Cinta aislante de vinilo marca Asaki para uso eléctrico,10,8.60,6.60,4B,3
+28,Cinta aislante 3M,Cinta aislante de vinilo 3M para uso eléctrico,20,5.00,3.80,3B,3
+29,Llave mixta Asaki,Llave mixta (boca y corona) marca Asaki,6,2.60,2.00,1D,5
+30,Pistola silicona delgada Truper,Pistola aplicadora de silicona tipo delgada marca Truper,2,19.50,15.00,3D,5
+32,Mini alicate universal,Mini alicate universal para trabajos de precisión,4,11.10,8.50,3D,5
+33,Mini alicate punta redonda,Mini alicate de punta redonda para doblar y dar forma a alambres,4,11.10,8.50,2D,5
+34,Mini alicate punta larga,Mini alicate de punta larga para alcanzar espacios reducidos,4,11.10,8.50,2D,5
+35,Medidor de aire Truper,Medidor de presión de aire para neumáticos marca Truper,4,15.60,12.00,2D,5
+36,Juego de piedras montadas,Juego de piedras abrasivas montadas para pulido y desbaste con taladro,2,11.10,8.50,4D,6
+37,Silicona Truper Comca,Silicona sellante marca Truper para juntas y acabados,6,8.50,6.50,2B,2
+38,Silicona Raymabilster,Silicona sellante marca Raymabilster para juntas y acabados,6,4.60,3.50,1B,2
+39,Extractor de tornillos,Extractor para retirar tornillos rotos o dañados,2,17.60,13.50,1D,5
+40,Aceite aflojatodo,Aceite penetrante para aflojar piezas oxidadas o atascadas,6,8.50,6.50,1E,7
+41,Nivel torpedo Truper,Nivel de burbuja tipo torpedo para verificar alineación,2,12.40,9.50,3D,5
+42,Desarmador reversible,Desarmador reversible con punta plana y de estrella,12,5.20,4.00,1D,5
+43,Pontero para taladro,"Pontero para taladro, punta para perforar concreto y pared",12,1.30,1.00,5D,6
+44,Pintura spray negro mate,Pintura en aerosol color negro mate,12,5.20,4.00,4A,1
+45,Pintura spray gris plata,Pintura en aerosol color gris plata,12,5.20,4.00,3A,1
+46,Pintura spray negro brillante,Pintura en aerosol color negro brillante,12,5.20,4.00,4A,1
+47,Cinta aislante 20 mts 3M,Cinta aislante 3M de 20 metros para uso eléctrico,20,5.20,4.00,3B,3
+48,Silicona cartucho transparente,Silicona transparente en cartucho para sellado de juntas,6,9.10,7.00,2B,2
+49,Pintura spray laca,Pintura en aerosol tipo laca para acabado brillante,6,5.90,4.50,3A,1
+50,Cinta doble contacto,Cinta adhesiva de doble contacto para fijación de superficies,10,7.80,6.00,5B,3

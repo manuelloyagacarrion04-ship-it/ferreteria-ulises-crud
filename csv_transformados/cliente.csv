@@ -1,0 +1,9 @@
+﻿id_cliente,nombre,apellido_paterno,apellido_materno,telefono,porcentaje_descuento,total_transacciones
+1,Marco,Salazar,Vega,987145230,3.00,2
+2,Elena,Paredes,Linares,931276540,0.00,3
+3,Víctor,Cabrera,Ruiz,948901237,0.00,3
+4,Juan,Reyes,Mendoza,962408871,5.00,8
+5,Luis,Rojas,Huamán,944218765,5.00,3
+6,Carmen,Alva,Zavaleta,956732014,0.00,3
+7,Segundo,Tello,Vargas,975320486,10.00,2
+8,Milagros,Díaz,Contreras,927614083,0.00,2
